@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tadiwa-tendayi-website-bbf58c0b-b1igy3mk6-tadiwatendayi.vercel.app/sitemap.xml
+Sitemap: https://www.tadiwatendayi.com/sitemap.xml

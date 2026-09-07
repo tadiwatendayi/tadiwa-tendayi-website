@@ -2,7 +2,7 @@
    FROM MY KITCHEN — Instagram gallery
    To update: edit the POSTS array below. Nothing else.
    Each item:
-     image   — path to the photo, e.g. "assets/instagram/burrata.jpg"
+     image   — path to the photo, e.g. "burrata.jpg"
      postUrl — the Instagram post link
      alt     — short description of the dish (used by screen readers)
    Leave `image` empty ("") and the tile renders as a placeholder.
@@ -11,17 +11,17 @@
 
 var POSTS = [
   {
-    image: "assets/instagram/kitchen-1.webp",
+    image: "kitchen-1.webp",
     postUrl: "https://www.instagram.com/p/Dc-npOPDrnR/",
     alt: "A dish from Chef Tadiwa's kitchen"
   },
   {
-    image: "assets/instagram/kitchen-2.webp",
+    image: "kitchen-2.webp",
     postUrl: "https://www.instagram.com/p/DanaQjziG_v/",
     alt: "A dish from Chef Tadiwa's kitchen"
   },
   {
-    image: "assets/instagram/kitchen-3.webp",
+    image: "kitchen-3.webp",
     postUrl: "https://www.instagram.com/reel/DVOizG1Eyyz/",
     alt: "A dish from Chef Tadiwa's kitchen"
   }
